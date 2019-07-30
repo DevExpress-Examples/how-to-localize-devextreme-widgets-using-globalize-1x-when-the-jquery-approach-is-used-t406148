@@ -4,7 +4,7 @@
 <!-- default file list end -->
 # How to localize DevExtreme widgets using Globalize 1.X when the jQuery approach is used
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t406148)**
+**[[Run Online]](https://codecentral.devexpress.com/t406148/)**
 <!-- run online end -->
 
 
